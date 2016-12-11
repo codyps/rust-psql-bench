@@ -1,0 +1,11 @@
+[package]
+name = "bench-sql"
+version = "0.1.0"
+authors = ["Cody P Schafer <dev@codyps.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+diesel = "*"
+diesel_codegen = "*"
+postgres = "*"
